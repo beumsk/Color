@@ -1,5 +1,6 @@
 # Color Game
 Play the color game and improve your understanding of RGB colors.
+https://codepen.io/beumsk/pen/poyXqWZ
 
 TODO:
 * reset button?
