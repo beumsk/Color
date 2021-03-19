@@ -1,5 +1,5 @@
 # Color Game
-Play the color game ! Find the right color based on the rgb code you see.
+Play the color game and improve your understanding of RGB colors.
 
 TODO:
 * reset button?
